@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-import UniformTypeIdentifiers
 
 private struct TaskDragPayload: Hashable {
     let taskID: UUID
